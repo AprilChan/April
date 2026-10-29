@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.vercel/
+.DS_Store
+.dpfe-devops-cli-cache/
+.trae/
+log/
+
+# Source copies duplicated by production assets under public/.
+/字节项目/
+/*.pdf
+/*.png
+/*.jpg
+/*.jpeg
